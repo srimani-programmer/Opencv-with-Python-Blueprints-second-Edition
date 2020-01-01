@@ -1,0 +1,2 @@
+# Opencv-with-Python-Blueprints-second-Edition
+This book demonstrates how to develop a series of intermediate to advanced projects using OpenCV and Python, rather than teaching the core concepts of OpenCV in theoretical lessons. Instead, the working projects developed in this book teach the reader how to apply their theoretical knowledge to topics such as image manipulation, augmented reality, object tracking, 3D scene reconstruction, statistical learning, and object categorization.
